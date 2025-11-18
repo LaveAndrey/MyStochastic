@@ -6,6 +6,12 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-Enabled-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 Автоматическая торговая система, работающая с биржами OKX и Binance.  
 Поддерживает технический анализ, работу по сигналам, контроль рисков, мониторинг ликвидаций и логирование сделок.
 
